@@ -1,5 +1,4 @@
-
-#Amazon CloneAmazon Clone
+# Amazon CloneAmazon Clone
 Goal was to clone amazon with payment feature enabled
 
 First I made the front end using react. This clone have 4 pages Login page, Home page, Cart page and payment page. Payment feature is enabled using stripe element. All user authentication and all orders placed are stored in firebase and all payment info are saved in stripe.
